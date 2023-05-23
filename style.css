@@ -38,6 +38,7 @@ header img{
 .header-left button:hover{
     color: white;
 }
+/* header css ends */
 .early-access{
     margin-top: 125px;
 }
@@ -53,7 +54,7 @@ header img{
 
 .smart h1{
     text-align: center;
-    margin-top: 80px;
+    margin-top: 150px;
     font-size: 50px;
 }
 .anti-spam{
@@ -75,9 +76,44 @@ header img{
 }
 .smart-section{
     display: flex;
-    margin-left: 100px;
+    margin-left: 238px;
+}
+/* feature starts */
+.feature{
+    margin-left: 25%;
+    margin-top: 15%;
+}
+.feature h2{
+    color: rgba(5, 5, 5, 0.718);
+    font-size: 55px;
+}
+.feature p{
+    color: rgb(0, 4, 7);
+    font-size: 20px;
+    margin: 20px 0px;
+}
+.feature button{
+    padding: 12px 30px;
+    margin: 24px 0px;
+    border-radius: 20px;
+    border: none;
+    font-size: 17px;
+    background-color: #121A2E;
+    font-weight: bold;
+    color: aliceblue;
 }
 
+.feature button:hover{
+    color: white;
+}
+.feature{
+    display: flex;
+    align-items: center;
+}
+.features{
+    background-color: #00FFAD;
+    background: linear-gradient(168deg, #ffffff 35%, #00FFAD 0)
+}
 
 
 
