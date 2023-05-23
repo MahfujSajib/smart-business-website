@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+   
+}
+/* header css */
+header{
+    background-image: url(img/banner-bk.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+}
+header img{
+    width: 100px;
+    height: 100px;
+}
+.header-left{
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.header-left h2{
+    color: aliceblue;
+    font-size: 55px;
+}
+.header-left p{
+    color: aliceblue;
+    font-size: 20px;
+    margin: 20px 0px;
+}
+.header-left button{
+    padding: 12px 30px;
+    margin: 24px 0px;
+    border-radius: 20px;
+    border: none;
+    font-size: 17px;
+    background-color: #00E69C;
+    font-weight: bold;
+}
+
+.header-left button:hover{
+    color: white;
+}
+.early-access{
+    margin-top: 125px;
+}
+.early-access a{
+    font-size: 22px;
+    color: aliceblue;
+    text-decoration: none;
+}
+.early-access a:hover{
+    text-decoration: underline;
+}
+/* header css ends */
+
+.smart h1{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 50px;
+}
+.anti-spam{
+    width: 30%;
+}
+.anti-spam img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.anti-spam h3{
+    text-align: center;
+    font-size: 24px;
+}
+.anti-spam p{
+    text-align: center;
+    font-size: 18px;
+}
+.smart-section{
+    display: flex;
+    margin-left: 100px;
+}
+
+
+
+
