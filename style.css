@@ -114,6 +114,74 @@ header img{
     background-color: #00FFAD;
     background: linear-gradient(168deg, #ffffff 35%, #00FFAD 0)
 }
+/* pricing css starts */
+.pricing h1{
+    color: #121A2E;
+    text-align: center;
+    font-size: 38px;
+    margin-top: 80px;
+}
+.startup button{
+    padding: 10px 15px;
+    margin: 24px 0px;
+    border-radius: 20px;
+    font-size: 17px;
+    background-color: #ffffff;
+    font-weight: bold;
+    color: #121A2E;
+    border: 2px solid #121A2E;
+}
+
+.startup button:hover{
+    color: #ffffff;
+    background-color: #121A2E;
+}
+.startup{
+    /* background-color: #00E69C; */
+    width: 20%;
+}
+.startup h2,p{
+    text-align: center;
+}
+.startup a{
+    margin: auto 33%;
+}
+.price{
+    display: flex;
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+/* premium */
+.premium button{
+    padding: 10px 15px;
+    margin: 24px 0px;
+    border-radius: 20px;
+    font-size: 17px;
+    background-color: #ffffff;
+    font-weight: bold;
+    color: #121A2E;
+    border: 2px solid #121A2E;
+}
+
+.premium button:hover{
+    color: #ffffff;
+    background-color: #121A2E;
+}
+.premium{
+    width: 20%;
+    background-color: #192440;
+}
+.premium h2,p{
+    text-align: center;
+}
+.premium a{
+    margin: auto 33%;
+}
+/* .premium h2,p{
+    color: #ffffff;
+} */
+
 
 
 
