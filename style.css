@@ -171,6 +171,7 @@ header img{
 .premium{
     width: 20%;
     background-color: #192440;
+    border-radius: 10px;
 }
 .premium h2,p{
     text-align: center;
@@ -181,6 +182,20 @@ header img{
 /* .premium h2,p{
     color: #ffffff;
 } */
+/* Company CSS Start */
+.company{
+    margin-top: 100px;
+    background-color: #ECEEEF;
+    height: 150px;
+}
+.client{
+    display: flex;
+    margin-left: 250px;
+   
+}
+.client-img{
+    padding: 50px;
+}
 
 
 
